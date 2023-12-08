@@ -10,7 +10,7 @@ In 2018, the company was acquired by Japanese Recruit Holdings for US$1.2 billio
 Kaggle is a data science competition platform and online community of data scientists and machine learning practitioners under Google LLC. Kaggle enables users to find and publish datasets, explore and build models in a web-based data science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
 ## Dataset
-The following dataset is provided by RASHIK RAHMAN, it was primarily webscrapped from https://www.glassdoor.co.in. You can find the details about the dataset on [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv).
+The following dataset is provided by Rashik Rahman, it was primarily webscrapped from https://www.glassdoor.co.in. You can find the details about the dataset on [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv).
 
 ***TODO List:***
 - Examine the data, checking missing values, duplicates, shapes, columns, and information about data.
